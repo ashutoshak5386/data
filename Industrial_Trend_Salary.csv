@@ -1,0 +1,31 @@
+﻿Department,Experience Level,Job Role
+Cybersecurity,Entry Level,Cybersecurity Analyst
+Cybersecurity,Entry Level,Database Administrator
+Cybersecurity,Entry Level,Network Engineer
+Cybersecurity,Mid Level,Cybersecurity Analyst
+Cybersecurity,Mid Level,Database Administrator
+Cybersecurity,Mid Level,Network Engineer
+Cybersecurity,Senior Level,Cybersecurity Analyst
+Cybersecurity,Senior Level,Database Administrator
+Cybersecurity,Senior Level,Network Engineer
+Data Engineering,Entry Level,Data Scientist
+Data Engineering,Entry Level,Database Administrator
+Data Engineering,Mid Level,Data Scientist
+Data Engineering,Mid Level,Database Administrator
+Data Engineering,Senior Level,Data Scientist
+Data Engineering,Senior Level,Database Administrator
+Human Resource,Entry Level,Human Resource
+Human Resource,Mid Level,Human Resource
+Human Resource,Senior Level,Human Resource
+IT Operation,Entry Level,IT Project Manager
+IT Operation,Entry Level,Sale Representative
+IT Operation,Entry Level,Software Developer
+IT Operation,Mid Level,IT Project Manager
+IT Operation,Mid Level,Sale Representative
+IT Operation,Mid Level,Software Developer
+IT Operation,Senior Level,IT Project Manager
+IT Operation,Senior Level,Sale Representative
+IT Operation,Senior Level,Software Developer
+UI/UX Designer,Entry Level,UI/UX Designer
+UI/UX Designer,Mid Level,UI/UX Designer
+UI/UX Designer,Senior Level,UI/UX Designer
